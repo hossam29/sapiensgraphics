@@ -1,0 +1,150 @@
+/* --- Importing Google Fonts --- */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+/* --- Body --- */
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    background: #eee;
+    height: auto;
+}
+
+/* --- Main --- */
+main {
+    max-width: 900px;
+    margin: auto;
+    box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1),
+    -30px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* --- Styling H1 Tags --- */
+h1 {
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* --- Styling H2 Tags --- */
+h2 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+/* --- Landing --- */
+#landing {
+    background: #fff;
+}
+
+/* --- Landing Text --- */
+#landing-text {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 1rem 0 1rem;
+}
+
+/* -- Landing Text H2 --- */
+#landing-text h2 {
+    color: #888;
+}
+
+/* --- Buttons --- */
+.btn {
+    padding: 0.5rem 2rem;
+    border: 1px #ccc solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #333;
+    transition: background 500ms ease;
+}
+
+/* --- Button Hover --- */
+.btn:hover {
+    background: #f4f4f4;
+}
+
+/* --- #Images Paragraphs --- */
+#images p {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+/* --- Header --- */
+#header {
+    padding: 1.5rem;
+    text-align: center;
+    background: #333;
+    color: #fff;
+}
+
+/* --- Header H2 --- */
+#header h2 {
+    border-left: dotted 1px #fff;
+    border-right: dotted 1px #fff;
+    display: inline-block;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+ /* --- Portfolio Grid --- */
+#grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    grid-template-rows: auto;
+}
+
+/* --- Images --- */
+img {
+    width: 100%;
+}
+
+/* --- Images --- */
+img:hover {
+    opacity: 0.7;
+    transition: 0.05s ease;
+}
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    padding: 1rem 1rem;
+    margin: auto;
+    color: #333;
+}
+
+/* --- Footer H3 --- */
+footer h3 {
+    font-size: 3rem;
+    margin-bottom: ;
+}
+
+/* --- Screen Sizes 500px and Up --- */
+@media (max-width: 500px) {
+    #landing {
+        display: flex;
+        height: 100%;
+    }
+
+    #landing-text {
+        height: 100vh;
+    }
+}
+
+/* --- Screen Sizes 700px and Up --- */
+@media (min-width: 700px) {
+    .btn {
+        padding: 1rem 3rem;
+    }
+}
+
+@media (max-width: 760px) {
+    #grid {
+        display: block;
+    }
+}

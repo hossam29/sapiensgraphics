@@ -66,10 +66,11 @@
         | <a href="index.php?lang=it"><?php echo $lang['lang_it'] ?></a>
         | <a href="index.php?lang=ro"><?php echo $lang['lang_ro'] ?></a>
         | <a href="index.php?lang=ru"><?php echo $lang['lang_ru'] ?></a>
+        | <a href="index.php?lang=bg"><?php echo $lang['lang_bg'] ?></a>
         | <a href="index.php?lang=bs"><?php echo $lang['lang_bs'] ?></a>
         | <a href="index.php?lang=ko"><?php echo $lang['lang_ko'] ?></a>
         | <a href="index.php?lang=jp"><?php echo $lang['lang_jp'] ?></a>
-        | <a href="index.php?lang=cmd"><?php echo $lang['lang_cmd'] ?></a>
+        | <a href="index.php?lang=cmd"><?php echo $lang['lang_cmd'] ?></a>>
         
         <p><b>Kyle Colbourne &copy; 2018</b></p>
     
