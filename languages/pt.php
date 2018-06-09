@@ -1,14 +1,13 @@
 <?php
-	$lang = array(
-        // All Pages
-        "btnView" => "View Work",
-        "btnHome" => "Go Home",
-        "thanks" => "Thank you for taking the time to view my work. I hope you liked it!",
-        "feelFree" => "Feel free to browse my work.",
-        
+	$lang = array(        
         // Index Page
         // Titles/Headings
 		"titleIndex" => "Sapien's Graphics | Welcome!",
+		"titleGeneralArtwork" => "Sapien's Graphics | General Artwork",
+		"titleLogoDesign" => "Sapien's Graphics | Logo Design",
+		"titlePaleoArt" => "Sapien's Graphics | Paleo Art",
+		"titlePixelArt" => "Sapien's Graphics | Pixel Art",
+		"titleFaq" => "Sapien's Graphics | FAQ",
         "titleIndexLanding" => "Sapien's Graphics' Portfolio",
         "titleIndexGeneralArtwork" => "General Artwork",
         "titleIndexLogoDesign" => "Logo Design",
@@ -17,6 +16,11 @@
         "titleIndexFaq" => "FAQ",
         "titleIndexGit" => "Get In Touch",
         //Captions/Other
+        "btnView" => "View Work",
+        "btnHome" => "Go Home",
+        "myWork" => "My Work",
+        "thanks" => "Thank you for taking the time to view my work. I hope you liked it!",
+        "feelFree" => "Feel free to browse my work.",
         "captionLanding" => "Digital Graphics Work",
         "captionGeneralArtwork" => "Click the image above to see my portfolio of general artwork.",
         "captionLogoDesign" => "Click the image above to see my portfolio of logo design.",
@@ -26,19 +30,19 @@
         "captionEmailEnquiries" => "Email me with any enquiries you have here:",
         
         // General Artwork
-        "titleGeneralArtWork" => "General Artwork Portfolio",
+        "titleLandingGeneralArtWork" => "General Artwork Portfolio",
         
         // Logo Work Page
-        "titleLogoDesign" => "Logo Design Portfolio",
+        "titleLandingLogoDesign" => "Logo Design Portfolio",
         
         // Paleo Art Page
-        "titlePaleoArt" => "Paleo Art Portfolio",
+        "titlelandingPaleoArt" => "Paleo Art Portfolio",
         
         // Pixal Art Page
-        "titlePixelArt" => "Pixel Art Portfolio",
+        "titlelandingPixelArt" => "Pixel Art Portfolio",
         
         // FAQ Page
-        "titleFaq" => "Frequently Asked Questions",
+        "titleLandingFaq" => "Frequently Asked Questions",
         "titleFindAnswers" => "Find answers to some of the frequently asked questions.",
         
         // Germanic Languages

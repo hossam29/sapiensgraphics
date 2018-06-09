@@ -18,6 +18,7 @@
         //Captions/Other
         "btnView" => "View Work",
         "btnHome" => "Go Home",
+        "myWork" => "My Work",
         "thanks" => "Thank you for taking the time to view my work. I hope you liked it!",
         "feelFree" => "Feel free to browse my work.",
         "captionLanding" => "Digital Graphics Work",
