@@ -1,4 +1,4 @@
-##Instructions on translateing the site:
+## Instructions on translateing the site:
  * Open that branch that corresponds to the language you will be translating the site in.
  * Open the folder 'translations'.
  * Click the text file that corrisponds to the language you are translating the site in.
