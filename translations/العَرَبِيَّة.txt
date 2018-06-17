@@ -1,58 +1,58 @@
 Sapien's Graphics is the name of the name of the YouTube channel that will go with this site so I don't know if you would translate it.
 
-View Work =
+View Work = اعرض العمل
 
-Go Home =
-Thank you for taking the time to view my work. I hope you liked it! =
+Go Home = اذهب الى الصفحة الرئيسية
+Thank you for taking the time to view my work. I hope you liked it! = شكرا على وقتكم فى الاطلاع على اعمالى. اتمنى ان تعجبكم اعمالى
 
-Feel free to browse my work. =
+Feel free to browse my work. = كن حر و انت تتصفح اعمالى
 
-Sapien's Graphics | Welcome! =
+Sapien's Graphics | Welcome! = مرحبا
 
-Sapien's Graphics | General Artwork =
+Sapien's Graphics | General Artwork = اعمال فنية عامة
 
-Sapien's Graphics | Logo Design =
+Sapien's Graphics | Logo Design = تصميم شعار اللوجو 
 
-Sapien's Graphics | Paleo Art =
+Sapien's Graphics | Paleo Art = فن الباليو
 
-Sapien's Graphics | Pixel Art =
+Sapien's Graphics | Pixel Art = فن البيكسل
 
-Sapien's Graphics | FAQ =
+Sapien's Graphics | FAQ = التعليمات
 
-Sapien's Graphics' Portfolio =
+Sapien's Graphics' Portfolio = المحفظة/بورتفوليو
 
-General Artwork =
+General Artwork = اعمال فنية عامة
 
-Logo Design =
+Logo Design = تصميم شعار اللوجو
 
-Paleo Art =
+Paleo Art = فن باليو
 
-Pixel Art =
+Pixel Art = فن بيكسل
 
 FAQ (frequesntly asked questions) =
 
-Get In Touch =
+Get In Touch = كن على تواصل
 
-Digital Graphics Work =
+Digital Graphics Work = اعمال الجرافكس الرقمى
 
-Click the image above to see my portfolio of general artwork. =
+Click the image above to see my portfolio of general artwork. = اضغط على الصورة بأعلى لتتمكن من رؤيةاعمالى الفنية العامة
 
-Click the image above to see my portfolio of logo design. =
+Click the image above to see my portfolio of logo design. = اضغط على الصورة بأعلى لتتمكن من رؤية اعمالى فى تصميم شعارات اللوجو
 
-Click the image above to see my portfolio of paleo art. =
+Click the image above to see my portfolio of paleo art. = اضغط على الصورة بأعلى لتتمكن من رؤيةاعمالى فى فن الباليو
 
-Click the image above to see my portfolio of pixel art. =
+Click the image above to see my portfolio of pixel art. = اضغط على الصورة بأعلى لتتمكن من رؤية اعمالى فى فن البيكسل
 
-Click the image above to see frequently asked questions. =
+Click the image above to see frequently asked questions. = اضغط على الصورة بأعلى لتتمكن من رؤية الاسئلةالمتكررة
 
-Email me with any enquiries you have here: =
+Email me with any enquiries you have here: = ارسل لى ايميل بأى طلبات هنا
 
-General Artwork Portfolio =
+General Artwork Portfolio = محفظة/بورتفوليو الاعمال الفنية العامة
 
-Logo Design Portfolio =
+Logo Design Portfolio = محفظة/بورتفوليو تصميم شعارات اللوجو
 
-Paleo Art Portfolio =
+Paleo Art Portfolio = محفظة/بورتفوليو لاعمال الباليو
 
-Frequently Asked Questions =
+Frequently Asked Questions = اسئلة شائعة
 
-Find answers to some of the frequently asked questions. =
+Find answers to some of the frequently asked questions. = اجابات بعض الاسئلةالشائعة
